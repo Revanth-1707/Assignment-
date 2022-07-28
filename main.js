@@ -1,4 +1,4 @@
-var country = { 
+let country = { 
 
        canberra: {  
 
@@ -20,7 +20,7 @@ var country = {
 }
 for(i=0,i<=length.country,i++){
 if country[i].population > 20000{
-print(country[i]
+print(country[i])
 
 
 
